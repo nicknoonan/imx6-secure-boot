@@ -22,7 +22,7 @@ $ make menuconfig
 
 3. Enable ***i.MX HAB features*** inside the configuration cli gui
 
-![image-20210702100257527](C:\Users\minke\AppData\Roaming\Typora\typora-user-images\image-20210702100257527.png)
+![image-20210702100257527](image-20210702100257527.png)
 
 #### Building procedure
 
@@ -243,7 +243,7 @@ $ cat fusevals.txt
 
 ### Signing U-boot
 
-<img src="C:\Users\minke\AppData\Roaming\Typora\typora-user-images\image-20210701184324601.png" alt="image-20210701184324601" style="zoom:80%;" />
+<img src="image-20210701184324601.png" alt="image-20210701184324601" style="zoom:80%;" />
 
 1. Copy over u-boot.imx to the CST directory.
 
@@ -302,7 +302,7 @@ $ cp u-boot_signed.imx u-boot.nitrogen6q
 
 ### Signing the linux kernel
 
-![image-20210701184354227](C:\Users\minke\AppData\Roaming\Typora\typora-user-images\image-20210701184354227.png)
+![image-20210701184354227](image-20210701184354227.png)
 
 1. Copy over ***zImage*** to the CST directory
 
