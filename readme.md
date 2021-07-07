@@ -486,7 +486,7 @@ No HAB Events Found!
 
 # Flashing the keys... pseudo
 
-![ocotp_ctrl](C:\Users\minke\OneDrive\Desktop\qvlx\imx6-secure-boot\ocotp_ctrl.jpg)
+![ocotp_ctrl](ocotp_ctrl.jpg)
 
 1. Find the ***fusevals.txt*** file created earlier
 
