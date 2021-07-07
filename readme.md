@@ -423,7 +423,7 @@ $ cat zImage-pad-ivt.bin zImage_csf.bin > zImage_signed
 1. Upload the ***boundary-image-multimedia-full-nitrogen6x.wic*** image created earlier from ***imx6yocto/build/tmp/deploy/images/nitrogen6x/*** to a windows host.
 2. Import the image to a ***Balena Etcher*** and flash. This will create two partitions. The first partition contains an ***unsigned zImage*** and ***linux device trees***. The next partition contains the linux ***root file system***.
 
-![image-20210702115003934](C:\Users\minke\AppData\Roaming\Typora\typora-user-images\image-20210702115003934.png)
+![image-20210702115003934](image-20210702115003934.png)
 
 3. Next copy any neccessary u-boot upgrade scripts, u-boot boot scripts, u-boot images, device trees, and the signed zImage to the ***fat partition*** on the ***installation media***.
 
